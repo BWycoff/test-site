@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Futura, Trebuchet MS, Arial, sans-serif;
+  font-size: 2em;
+  color: #40514e;
+}
+
+div {
+  margin-top: 0;
+}
+
+h1 {
+  margin: 50px, auto, 0, auto;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999e;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: none;
+  border-top: dotted;
+  color: #aaaaaa;
+  width: 5%;
+  border-width: 9px;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 60px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 40px;
+  padding-bottom: 15px;
+  margin-top: 80px;
+}
+
+.graphic {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.typography {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.rgb-wheel {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #11999e;
+  margin: 10px 20px;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.BUTTON-HQY {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  color: #FFFFFF;
+  font-family: futura;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 15px;
+  background-color: #66BFBF;
+  box-shadow: 1px 1px 6px 0px #aaaaaa;
+  -webkit-box-shadow: 1px 1px 6px 0px #aaaaaa;
+  -moz-box-shadow: 1px 1px 6px 0px #aaaaaa;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON-HQY:hover {
+  background: #9EF4E5;
+  border: solid #C7FCFA 1px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
